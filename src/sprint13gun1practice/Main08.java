@@ -1,4 +1,4 @@
-// numberStr değeri 0'dan büyükse ekrana pozitif,
+package sprint13gun1practice;// numberStr değeri 0'dan büyükse ekrana pozitif,
 // değilse ekrana negatif yazdırınız.
 // (değişkenin String verilmesine dikkat ediniz.)
 

@@ -1,4 +1,4 @@
-//For döngüsü kullanarak dizi elemanlarını ekrana yazdırınız.
+package sprint13gun1practice;//For döngüsü kullanarak dizi elemanlarını ekrana yazdırınız.
 
 public class Main07 {
     public static void main(String[] args) {

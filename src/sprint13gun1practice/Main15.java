@@ -1,4 +1,4 @@
-// text isminde String tipinde bir değişken tanımlayınız ve Java değerini atayınız.
+package sprint13gun1practice;// text isminde String tipinde bir değişken tanımlayınız ve Java değerini atayınız.
 // Daha sonra bir for döngüsü ile tüm karakterlerini ekrana bastırınız.
 
 public class Main15 {

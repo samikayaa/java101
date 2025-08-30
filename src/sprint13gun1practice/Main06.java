@@ -1,4 +1,4 @@
-// number değeri 0'dan büyükse ekrana Pozitif,
+package sprint13gun1practice;// number değeri 0'dan büyükse ekrana Pozitif,
 // değilse ekrana negatif yazdıran kodu ekleyiniz.
 
 public class Main06 {

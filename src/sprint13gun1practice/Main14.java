@@ -1,4 +1,4 @@
-// Aşağıdaki kodda ekrana 5 kere 'Döngü çalışıyor' yazdırılmak istenmektedir.
+package sprint13gun1practice;// Aşağıdaki kodda ekrana 5 kere 'Döngü çalışıyor' yazdırılmak istenmektedir.
 // Bu işlem için kodda flag değişkenini tipini dogru belirleyerek tanımlayınız.
 // while döngüsü içerisine de 1 adet şartlı ifade ekleyiniz.
 

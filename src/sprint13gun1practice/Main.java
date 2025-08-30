@@ -1,4 +1,4 @@
-//Aşağıdaki yönergeleri gerçekleştiriniz.
+package sprint13gun1practice;//Aşağıdaki yönergeleri gerçekleştiriniz.
 // 1-)number isminde int tipinde bir değişken tanımla ve değerini 10 olarak ata.
 // 2-)decimalNumber isminde double tipinde bir değişken tanımla ve değerini 20.5 olarak ata.
 // 3-)isJavaFun isminde boolean tipinde bir değişken tanımla ve değerini true olarak ata.

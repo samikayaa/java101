@@ -1,4 +1,4 @@
-//String olarak verilmiş word değişkenini karakter dizisine çeviriniz(toCharArray fonksiyonuna bakabilirsin)
+package sprint13gun1practice;//String olarak verilmiş word değişkenini karakter dizisine çeviriniz(toCharArray fonksiyonuna bakabilirsin)
 // ve characters adında bir değişkene atayınız. Daha sonra bu characters dizisini bir for döngüsü ile geziniz.
 // Eğer bu dizinin herhangi bir karakteri sesliler dizisinin içerisinde geçiyorsa
 // (indexOf fonksiyonunu inceleyebilirsin) ekrana o karakteri yazdırınız.

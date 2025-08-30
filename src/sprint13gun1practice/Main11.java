@@ -1,4 +1,4 @@
-// 1-) avg değeri 30'dan küçükse ekrana Yetersiz,
+package sprint13gun1practice;// 1-) avg değeri 30'dan küçükse ekrana Yetersiz,
 // 2-) avg değeri 30 ile 50(dahil) arasındaysa ekrana Ortalama
 // 3-) avg değeri 50 ile 70(dahil) arasındaysa ekrana İyi
 // 4-) avg değeri 70'den büyükse ekrana Çok iyi yazdırınız.

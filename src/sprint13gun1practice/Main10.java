@@ -1,4 +1,4 @@
-// strNumber değişkenini integer bir değere cevirip,
+package sprint13gun1practice;// strNumber değişkenini integer bir değere cevirip,
 // strDecimal değerini de double bir değere çevirip toplayınız.
 // Sonucu total adında uygun tipte bir değişkene atayınız.
 

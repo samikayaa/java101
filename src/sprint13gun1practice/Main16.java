@@ -1,4 +1,4 @@
-//Aşağıdaki yönergeleri gerçekleştiriniz.
+package sprint13gun1practice;//Aşağıdaki yönergeleri gerçekleştiriniz.
 // 1-)fullName isminde bir değişken tanımla ve değerini John Doe olarak belirle.
 // 2-)email isminde bir değişken tanımla ve değerine johndoe@gmail.com değerini ata.
 // 3-)age isminde bir değişken tanımla ve değerine 32 ata.

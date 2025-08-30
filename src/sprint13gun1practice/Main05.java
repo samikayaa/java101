@@ -1,4 +1,4 @@
-//Aşağıdaki kod çalıştırıldığında
+package sprint13gun1practice;//Aşağıdaki kod çalıştırıldığında
 // StringConcat fonksiyonu 2 değişkeni de string beklediğinden dolayı hata almaktadır.
 // avgScore değişkenini parametre olarak String'e cevirerek yollayınız.
 

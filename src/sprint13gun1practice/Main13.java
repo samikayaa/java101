@@ -1,4 +1,4 @@
-// numbers dizisini bir for loop ile dönerek
+package sprint13gun1practice;// numbers dizisini bir for loop ile dönerek
 // eğer içerisindeki eleman 2 ile tam bölünüyorsa ekrana 'Çift sayı'
 // bölünmüyorsa ekrana 'Tek sayı' yazdırınız.
 // Şartlı ifade kullanımlarını if/else ile yapmaya çalışınız.

@@ -1,4 +1,4 @@
-//while döngüsü kullanarak verilen sayının faktoriyelini hesaplamaya çalışın.
+package sprint13gun1practice;//while döngüsü kullanarak verilen sayının faktoriyelini hesaplamaya çalışın.
 
 public class Main17 {
     public static void main(String[] args) {

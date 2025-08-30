@@ -1,4 +1,4 @@
-// Aşağıdaki yönergeleri gerçekleştiriniz.
+package sprint13gun1practice;// Aşağıdaki yönergeleri gerçekleştiriniz.
 // 1-)firstName isminde string tipinde bir değişken tanımla ve "Ali" değerini ata.
 // 2-)lastName isminde string tipinde bir değişken tanımla ve "Yaz" değerini ata.
 // 3-)age isminde değişken tanımla ve 25 değerini ata.

@@ -1,4 +1,4 @@
-// Pazartesi haftanın 1. günü
+package sprint13gun1practice;// Pazartesi haftanın 1. günü
 // Pazar günü de haftanın 7.günü olacak şekilde
 // haftanın her gününün bir numara olduğunu varsayalım.
 // day değeri haçtaiçi bir güne denk geliyorsa ekrana 'Hafta içi'.
